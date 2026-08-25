@@ -200,6 +200,8 @@ to evaluate how customer purchasing behavior and discount performance change und
 
 # Visualizations
 
+The following charts summarize the key business insights generated during the analysis.
+
 ## Revenue Performance
 
 **Business Question**
